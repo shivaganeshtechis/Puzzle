@@ -1,3 +1,6 @@
+![https://s3.eu-central-1.amazonaws.com/ovi-projects/15-puzzle/demo.gif](https://s3.eu-central-1.amazonaws.com/ovi-projects/15-puzzle/demo.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
